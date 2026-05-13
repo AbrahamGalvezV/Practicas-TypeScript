@@ -1,0 +1,27 @@
+
+.target {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  max-width: 500px;
+  padding: 20px;
+  margin: 10px;
+  align-items: center;
+  gap: 20px;
+  background-color: rgb(42, 42, 42);
+  border-radius: 20px;
+  border: 1px solid #6e00ae;
+}
+
+.userImg {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.targetInfo {
+  display: flex;
+  flex-direction: column;
+  gap: 13px;
+}

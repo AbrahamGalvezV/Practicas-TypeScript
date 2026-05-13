@@ -1,0 +1,8 @@
+button {
+    background: rgba(47, 48, 58, 0.5);
+    color: blueviolet;
+    padding: 7px;
+    max-width: 150px;
+    border-radius: 10px;
+    border: 1px solid;
+}
